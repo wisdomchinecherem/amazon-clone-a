@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: var(--roboto);
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -webkit-font-smoothing: antialiased;
+}
+body {
+  background-color: rgb(234, 237, 237);
+  margin: 0;
+  box-sizing: border-box;
+  font-family: var(--roboto);
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+:root {
+  --roboto: "Roboto", sans-serif;
+  --inter: "inter", sans-serif;
+  --poppins: "Poppins", sans-serif;
+  --epilogue: "Epilogue", sans-serif;
+}
